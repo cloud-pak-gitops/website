@@ -3,3 +3,5 @@
   - [Prerequistes](./prerequistes.md)
 - [Getting Started](https://github.com/cloud-pak-gitops/website)
 - [Contributing](https://github.com/cloud-pak-gitops/website)
+- [Reference](./reference.md)
+  - [Cloud Native Toolkit](https://cloudnativetoolkit.dev/adopting/use-cases/gitops/gitops-ibm-cloud-paks/)
