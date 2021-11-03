@@ -1,5 +1,6 @@
 - [Introduction](./what-is-gitops.md)
-  - [What is GitOps and CloudPakOps](./what-is-gitops.md)
+  - [What is GitOps](./what-is-gitops.md)
+  - [What is CloudPakOps](./what-is-cloudpakops.md)
   - [Prerequistes](./prerequistes.md)
 - [Getting Started](https://github.com/cloud-pak-gitops/website)
 - [Contributing](https://github.com/cloud-pak-gitops/website)
