@@ -14,8 +14,8 @@
  limitations under the License.
 -->
 
-- [GitOps Quick Start with Kubernetes KIND Cluster](./getting-started/install-instana-with-k8s-gitops.md)
-- [Using OpenShift GitOps to manage IBM Cloud Pak for Wastson AIOps](./getting-started/install-instana-with-k8s-gitops.md)
+- [GitOps Quick Start with Kubernetes KIND Cluster](./getting-started/gitops-quick-start-with-kubernetes-kind.md)
+- [Using OpenShift GitOps to manage IBM Cloud Pak for Wastson AIOps](https://github.com/cloud-pak-gitops/cp4waiops-gitops)
 - [Using Kubernetes GitOps to manage Instana](./getting-started/install-instana-with-k8s-gitops.md)
 - [Using OpenShift GitOps to manage Instana](./getting-started/install-instana-with-ocp-gitops.md)
 - [Using GitOps to manage Turbonomic](https://github.com/cloud-pak-gitops/turbo-gitops)
