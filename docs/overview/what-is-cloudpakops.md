@@ -42,7 +42,6 @@ With CloudPakOps, the end user only need to have a Kubernetes/OpenShift Cluster 
 
 ## Use Cases
 
-- As a Cluster Admin, I want to install Cloud Pak automatically without any manual operations. (Automatic Install)
 - As a Cluster Admin, I want to install Cloud Pak from scratch using GitOps, and track the Cluster update via Git Commit log. (Day 1 Operation)
 - As a Cluster Admin, I want to modify, upgrade existing Cloud Pak deployment using GitOps. (Day 2 Operation)
 - As a Cluster Admin, I want to have the same install experience for all Cloud Paks via GitOps. (Consistent Install Experience)
@@ -57,17 +56,18 @@ With CloudPakOps, the end user only need to have a Kubernetes/OpenShift Cluster 
 
 We have enabled GitOps for [IBM Cloud Pak for Watson AIOps](https://www.ibm.com/cloud/cloud-pak-for-watson-aiops), [Instana](https://www.turbonomic.com/) and [Turbonomic](https://www.instana.com/).
 
-- [Using GitOps to manage IBM Cloud Pak for Watson AIOps](https://github.com/cloud-pak-gitops/cp4waiops-gitops)
-- [Using GitOps to manage Instana](https://github.com/cloud-pak-gitops/instana-gitops)
-- [Using GitOps to manage Turbonomic](https://github.com/cloud-pak-gitops/turbo-gitops)
+- [Using OpenShift GitOps to manage IBM Cloud Pak for Wastson AIOps](./getting-started/install-cp4waiops-with-ocp-gitops.md)
+- [Using Kubernetes GitOps to manage Instana](./getting-started/install-instana-with-k8s-gitops.md)
+- [Using OpenShift GitOps to manage Instana](./getting-started/install-instana-with-ocp-gitops.md)
+- [Using Kubernetes GitOps to manage Turbonomic](./getting-started/install-turbo-with-k8s-gitops.md)
+- [Using OpenShift GitOps to manage Turbonomic](./getting-started/install-turbo-with-ocp-gitops.md)
 
 ## Under Going
 
 - [Using GitOps to manage OpenShift Cluster](https://github.com/cloud-pak-gitops/openshift-gitops)
 - [Using GitOps to manage Sample Apps for IBM Cloud Pak for Watson AIOps](https://github.com/cloud-pak-gitops/sample-app-gitops)
 
-
 ## Plan
 
-Build up a open source community for All IBM Cloud Pak GitOps.
+TBD
 
